@@ -1,8 +1,8 @@
 # Network Automation Inventory
 
-🚫 **Private script – not publicly available**
+**Private script – not publicly available**
 
-📧 Contact: bondansvbianca@gmail.com
+Contact: bondansvbianca@gmail.com
 
 This repository is related to the **Discovers project**, which automates network discovery by collecting:
 
@@ -15,7 +15,7 @@ It generates a **.txt file** with the data collected from each IP address.
 
 ---
 
-## 🧰 Libraries used
+## Libraries used
 
 ```python
 # -*- coding: utf-8 -*-
